@@ -87,7 +87,7 @@ define([
         function map(context) {
             try {
                 var json = JSON.parse(context.value);
-                // ptLogStore.store1(JSON.stringify(json, null, 4));
+                // log.debug("Map Data", JSON.stringify(json, null, 4));
                 
                 // context.write({
                 //     key: context.key,
