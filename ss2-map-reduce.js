@@ -3,8 +3,8 @@
  * @NModuleScope Public
  * @NScriptType MapReduceScript
  *
- * @DocsMapReduceEntryPoints: https://3915509.app.netsuite.com/app/help/helpcenter.nl?fid=section_4685231336.html#subsect_1513893434
- * @DocsgetInputData(inputContext): https://3915509.app.netsuite.com/app/help/helpcenter.nl?fid=section_4412447940.html
+ * @DocsMapReduceEntryPoints: https://XXXXXXXX.app.netsuite.com/app/help/helpcenter.nl?fid=section_4685231336.html#subsect_1513893434
+ * @DocsgetInputData(inputContext): https://XXXXXXXX.app.netsuite.com/app/help/helpcenter.nl?fid=section_4412447940.html
  *
  * @Author: 
  * @Description: 

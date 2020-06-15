@@ -3,7 +3,7 @@
  * @NApiVersion 2.x
  * @NModuleScope Public
  * @NScriptType ClientScript
- * @EntryPointDocumentation: https://3915509.app.netsuite.com/app/help/helpcenter.nl?fid=section_4489981198.html
+ * @EntryPointDocumentation: https://XXXXXXXX.app.netsuite.com/app/help/helpcenter.nl?fid=section_4489981198.html
  *
  * @Author: 
  * @Description: 
