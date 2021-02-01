@@ -7,6 +7,8 @@
  *
  * @Author: 
  * @Description: 
+ * 
+ * @NAmdConfig /SuiteScripts/requireConfig.json
  */
 
 define([
