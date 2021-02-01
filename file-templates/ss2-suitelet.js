@@ -8,6 +8,8 @@
  * @ScriptedRecord:
  * @ScriptDeployment:
  * @Endpoint:
+ * 
+ * @NAmdConfig /SuiteScripts/requireConfig.json
  */
 
 define([

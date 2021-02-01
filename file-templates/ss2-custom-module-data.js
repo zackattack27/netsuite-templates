@@ -1,5 +1,4 @@
 /**
- * ss2-custom-module-data.js
  * @NApiVersion 2.x
  * @NModuleScope Public
  *

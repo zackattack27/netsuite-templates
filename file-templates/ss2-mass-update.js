@@ -11,8 +11,9 @@
 define([
         "N/record",
         "N/search"
-    ],
-    function (ptLogStore, ptUtils, nRecord, nSearch) {
+    ], callback);
+
+function callback(ptLogStore, ptUtils, nRecord, nSearch) {
         function each(params) {
             try {
                 // Do something...
@@ -24,4 +25,4 @@ define([
         return {
             each: each
         };
-    });
+}
